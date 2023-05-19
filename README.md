@@ -15,7 +15,9 @@ Output of Autoencoder
 ### cGAN output
 
 Training: Image vs. True image vs. Generated Image 
+
 ![download (2)](https://user-images.githubusercontent.com/90741568/234730299-9d774ffe-2f1e-4cb1-b2ec-569813834d39.png)
 
 Testing: Image vs. True image vs. Generated Image
+
 ![1](https://user-images.githubusercontent.com/90741568/234730424-3909ab7a-9733-41b2-b75e-84d06c8c36c4.png)
